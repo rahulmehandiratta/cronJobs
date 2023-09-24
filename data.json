@@ -1,0 +1,120 @@
+{
+  "games": [
+    {
+      "gameId": "1",
+      "constest": [
+        {
+          "constestId": "1",
+          "time": "1 Pm"
+        },
+        {
+          "constestId": "2",
+          "time": "2 Pm"
+        },
+        {
+          "constestId": "3",
+          "time": "3 Pm"
+        },
+        {
+          "constestId": "4",
+          "time": "4 Pm"
+        },
+        {
+          "constestId": "5",
+          "time": "5 Pm"
+        },
+        {
+          "constestId": "6",
+          "time": "6 Pm"
+        }
+      ]
+    },
+    {
+        "gameId": "2",
+      "constest": [
+        {
+          "constestId": "1",
+          "time": "1 Pm"
+        },
+        {
+          "constestId": "2",
+          "time": "2 Pm"
+        },
+        {
+          "constestId": "3",
+          "time": "3 Pm"
+        },
+        {
+          "constestId": "4",
+          "time": "4 Pm"
+        },
+        {
+          "constestId": "5",
+          "time": "5 Pm"
+        },
+        {
+          "constestId": "6",
+          "time": "6 Pm"
+        }
+      ] 
+    },
+    {
+        "gameId": "3",
+        "constest": [
+          {
+            "constestId": "1",
+            "time": "1 Pm"
+          },
+          {
+            "constestId": "2",
+            "time": "2 Pm"
+          },
+          {
+            "constestId": "3",
+            "time": "3 Pm"
+          },
+          {
+            "constestId": "4",
+            "time": "4 Pm"
+          },
+          {
+            "constestId": "5",
+            "time": "5 Pm"
+          },
+          {
+            "constestId": "6",
+            "time": "6 Pm"
+          }
+        ]
+    },
+    {
+        "gameId": "4",
+        "constest": [
+          {
+            "constestId": "1",
+            "time": "1 Pm"
+          },
+          {
+            "constestId": "2",
+            "time": "2 Pm"
+          },
+          {
+            "constestId": "3",
+            "time": "3 Pm"
+          },
+          {
+            "constestId": "4",
+            "time": "4 Pm"
+          },
+          {
+            "constestId": "5",
+            "time": "5 Pm"
+          },
+          {
+            "constestId": "6",
+            "time": "6 Pm"
+          }
+        ]
+    }
+  ]
+}
